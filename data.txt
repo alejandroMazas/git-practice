@@ -1,0 +1,2 @@
+const bestAnime = "claymore";
+const bestGame = "duke nukem";
